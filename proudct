@@ -1,0 +1,90 @@
+               <!-- Start Products -->
+        <section class="mb-5" id="last-works">
+            <div class="container">
+                <div class="row">
+                    <h6 class="text-white fw-bold"><i class="fas fa-boxes"></i> كل ما تحتاج يصل إليك <span
+                            class="soon">قريباً</span>
+                    </h6>
+                    <h3 class="color-primary fw-bold mb-4">المنتجات ومواد البناء :</h3>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="courses-page" style="margin-top: 10px;">
+                        <!-- Start Product -->
+                        <div class="course">
+                            <a href="#"><img class="cover" src="imgs/blog-1.jpg" alt="صورة ضمن العمل" /></a>
+                            <div class="info-product">
+                                <h4 class="name-product">صيانة كهربائية</h4>
+                                <p class="description-product">
+                                    لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح
+                                </p>
+                            </div>
+                            <div class="info-between">
+                                <a href="product.html" class="a-file">طلب المنتج</a>
+                            </div>
+                        </div>
+                        <div class="course">
+                            <a href="#"><img class="cover" src="imgs/blog-1.jpg" alt="صورة ضمن العمل" /></a>
+                            <div class="info-product">
+                                <h4 class="name-product">صيانة كهربائية</h4>
+                                <p class="description-product">
+                                    لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح
+                                </p>
+                            </div>
+                            <div class="info-between">
+                                <a href="product.html" class="a-file">طلب المنتج</a>
+                            </div>
+                        </div>
+                        <div class="course">
+                            <a href="#"><img class="cover" src="imgs/blog-1.jpg" alt="صورة ضمن العمل" /></a>
+                            <div class="info-product">
+                                <h4 class="name-product">صيانة كهربائية</h4>
+                                <p class="description-product">
+                                    لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح
+                                </p>
+                            </div>
+                            <div class="info-between">
+                                <a href="product.html" class="a-file">طلب المنتج</a>
+                            </div>
+                        </div>
+                        <div class="course">
+                            <a href="#"><img class="cover" src="imgs/blog-1.jpg" alt="صورة ضمن العمل" /></a>
+                            <div class="info-product">
+                                <h4 class="name-product">صيانة كهربائية</h4>
+                                <p class="description-product">
+                                    لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح
+                                </p>
+                            </div>
+                            <div class="info-between">
+                                <a href="product.html" class="a-file">طلب المنتج</a>
+                            </div>
+                        </div>
+                        <div class="course">
+                            <a href="#"><img class="cover" src="imgs/blog-1.jpg" alt="صورة ضمن العمل" /></a>
+                            <div class="info-product">
+                                <h4 class="name-product">صيانة كهربائية</h4>
+                                <p class="description-product">
+                                    لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح
+                                </p>
+                            </div>
+                            <div class="info-between">
+                                <a href="product.html" class="a-file">طلب المنتج</a>
+                            </div>
+                        </div>
+                        <div class="course">
+                            <a href="#"><img class="cover" src="imgs/blog-1.jpg" alt="صورة ضمن العمل" /></a>
+                            <div class="info-product">
+                                <h4 class="name-product">صيانة كهربائية</h4>
+                                <p class="description-product">
+                                    لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح
+                                </p>
+                            </div>
+                            <div class="info-between">
+                                <a href="product.html" class="a-file">طلب المنتج</a>
+                            </div>
+                        </div>
+                        <!-- End Product -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Products -->
